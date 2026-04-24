@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+*.h5
+*.pt
+*.pth
+*.pkl
+data/
+models/
+outputs/
+logs/
+wandb/
+.env
